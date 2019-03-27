@@ -1,0 +1,6 @@
+spring:
+ artemis:
+  host: artemis.tiagomac.com
+  port: 61617
+  user: tiagomac
+  password: rememberme
