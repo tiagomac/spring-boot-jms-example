@@ -4,3 +4,7 @@ spring:
   port: 61617
   user: tiagomac
   password: rememberme
+ 
+ jms:
+  template:
+   default-destination: tiagomac.order.queue
